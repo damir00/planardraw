@@ -1,5 +1,6 @@
 # Planardraw
-Render gPlanarity level files to PNG. Most of the time those files will be solved levels, but sometimes they can be partially solved or completely unsolved.
+
+Render gPlanarity level files to PNG. Those ASCII files are tipically located in `~/.gPlanarity/boards/`. Most of the time those files will be solved levels, but sometimes they can be partially solved or completely unsolved. Planardraw tries to replicate gPlanarity graphics.
 
 #Building
 
