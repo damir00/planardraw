@@ -1,4 +1,4 @@
-# planardraw
+# Planardraw
 Render gPlanarity level files to PNG. Most of the time those files will be solved levels, but sometimes they can be partially solved or completely unsolved.
 
 #Building
@@ -17,7 +17,7 @@ make
 
 #Showcase
 
-![alt tag](blob/master/montage.png)
+![Montage of levels rendered with Planardraw](montage.jpg?raw=true)
 
 Generated with:
 
