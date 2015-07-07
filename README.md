@@ -4,7 +4,7 @@ Render gPlanarity level files to PNG. Most of the time those files will be solve
 #Building
 
 Project depends on cairo.
-Project uses CMake, so follow the usual cmake build process:
+Project uses CMake, so follow the usual CMake build process:
 
 ```
 cmake .
@@ -13,7 +13,7 @@ make
 
 # Usage
 
-./planardraw input_file output_file
+`./planardraw input_file output_file`
 
 #Showcase
 
